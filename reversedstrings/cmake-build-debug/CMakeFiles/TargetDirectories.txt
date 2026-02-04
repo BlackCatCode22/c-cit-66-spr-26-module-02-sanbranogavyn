@@ -1,0 +1,3 @@
+P:/cppDemos/reversedstrings/cmake-build-debug/CMakeFiles/reversedstrings.dir
+P:/cppDemos/reversedstrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/cppDemos/reversedstrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
